@@ -1,9 +1,9 @@
-let chunked = [[1]];
+let chunked = [[1, 4]];
 
 let last = chunked[chunked.length-1];
 
-console.log(last);
+console.log(chunked[chunked.length-1]);
 
-console.log(!last);
+let asdf = [1, 2, 3]
 
-console.log(last.length === 3);
+console.log(asdf[asdf.length-1]);
