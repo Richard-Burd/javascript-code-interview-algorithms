@@ -1,9 +1,16 @@
-let chunked = [[1, 4]];
-
-let last = chunked[chunked.length-1];
-
-console.log(chunked[chunked.length-1]);
-
-let asdf = [1, 2, 3]
-
-console.log(asdf[asdf.length-1]);
+let flatData = [
+  [ 'q', [ 2 ] ],
+  [ 'z', [ 10 ] ],
+  [ 'w', [ 6 ] ],
+  [ 'e', [ 7 ] ],
+  [ 'v', [ 3 ] ],
+  [ 'r', [ 1 ] ],
+  [ 'r', [ 9 ] ],
+  [ 't', [ 5 ] ],
+  [ 't', [ 11 ] ],
+  [ 'y', [ 8 ] ],
+  [ 'y', [ 13 ] ],
+  [ 'r', [ 1 ] ],
+  [ 'r', [ 9 ] ],
+  [ 'w', [ 6 ] ]
+]
