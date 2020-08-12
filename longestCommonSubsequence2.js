@@ -1,3 +1,5 @@
+//https://docs.google.com/spreadsheets/d/12gMw8RblCicEzyxO9bFrfX3s3TS_qLX368NWbHllDsg/edit#gid=0
+
 const string1 = "rqvjtweyrztuyio";
 const string2 = "qzxwevrtbyrw";
 
